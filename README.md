@@ -18,6 +18,7 @@ This project automates the provisioning and configuration of an AWS EC2 instance
 
 ##  Project Structure
 
+```
 techeazy-devops/
 ├── terraform/
 │ ├── main.tf # Terraform resources (EC2, SG)
